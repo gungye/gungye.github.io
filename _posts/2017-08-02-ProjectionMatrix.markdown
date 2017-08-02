@@ -1,5 +1,5 @@
 Projection Matrix  
-2 * near / (right - left)	0													(right+left) / (right - left)   0  
+2 * near / (right - left)&npsp;0&npsp;(right+left) / (right - left)   0  
 0                         2 * near / (top - bottom) (top + bottom) / (top - bottom) 0  
 0                         0                         -(f+n) / (f-n)                  -2fn / (f-n)  
 0                         0                         -1                              0  
